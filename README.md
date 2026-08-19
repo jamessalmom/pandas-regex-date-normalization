@@ -1,4 +1,4 @@
-# Normalização de datas (Junho)
+# Normalização de datas
 
 Método pandas + regex que combina um pré-processamento (unifica
 separadores) com `pd.to_datetime` para lidar com formatos mistos
